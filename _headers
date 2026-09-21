@@ -1,0 +1,11 @@
+# Generated at build time by astro.config.mjs — do not edit by hand.
+# Indexing is controlled by PUBLIC_ALLOW_INDEXING (currently: ALLOWED).
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), interest-cohort=()
+
+# Astro fingerprints every asset filename, so these are safe to pin forever.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
